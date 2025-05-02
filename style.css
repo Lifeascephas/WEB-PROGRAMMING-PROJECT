@@ -1,0 +1,14 @@
+/* Simple CSS for form layout */
+form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  label, input, textarea {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
